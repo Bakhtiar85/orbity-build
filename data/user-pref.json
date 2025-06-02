@@ -1,0 +1,21 @@
+{
+  "search.projectPostedTime.unit": "minutes",
+  "search.keywords": "HTML, JS, CSS, JavaScript, java script, node, node js, Node.js, react, react js, React.js, typescript, Typescript, next, next js, Next.js, tailwind css, Tailwind CSS",
+  "search.projectSkillsNumList": "projectSkills=500,759,979,2376,2435",
+  "search.minClientReviews": "2",
+  "freelancer.bidDelayMs": "5000",
+  "freelancer.username": "Your Freelancer Username Or Email",
+  "search.minClientRating": "1.5",
+  "freelancer.password": "Your Freelancer Password",
+  "search.maxBidCount": "100",
+  "search.maxPagesToCheck": "1",
+  "browser.headless": false,
+  "search.skillMatchPercent": "65",
+  "search.projectPostedTime.value": "60",
+  "search.projectsPerSearch": "1",
+  "search.pageLoadTimeout": "50000",
+  "freelancer.maxDailyBids": "20",
+  "search.pageDelay": "5000",
+  "search.searchPhrase": "",
+  "search.matchFromProjectSkills": true
+}
