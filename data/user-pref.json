@@ -24,5 +24,6 @@
     "fixedMin": 5,
     "fixedMax": 1000
   },
-  "search.projectType": "hourly"
+  "search.projectType": "hourly",
+  "ignoreProjectByCurrencies": "INR, PKR"
 }
