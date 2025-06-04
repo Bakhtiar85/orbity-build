@@ -17,5 +17,12 @@
   "freelancer.maxDailyBids": "20",
   "search.pageDelay": "5000",
   "search.searchPhrase": "",
-  "search.matchFromProjectSkills": true
+  "search.matchFromProjectSkills": true,
+  "search.budget": {
+    "hourlyMin": 5,
+    "hourlyMax": 1000,
+    "fixedMin": 5,
+    "fixedMax": 1000
+  },
+  "search.projectType": "hourly"
 }
