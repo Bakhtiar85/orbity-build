@@ -20,7 +20,7 @@
   "search.searchPhrase": "",
   "search.matchFromProjectSkills": true,
   "search.budget": {
-    "setBudget": false,
+    "setBudget": true,
     "hourlyMin": 5,
     "hourlyMax": 100,
     "fixedMin": 50,
