@@ -27,5 +27,6 @@
     "fixedMax": 500
   },
   "search.projectType": "both",
+  "search.includeKeywordsInURL": false,
   "ignoreProjectByCurrencies": "INR, PKR"
 }
