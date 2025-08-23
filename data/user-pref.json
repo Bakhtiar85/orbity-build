@@ -19,8 +19,9 @@
   "search.pageRefreshTime": "15000",
   "search.searchPhrase": "",
   "search.matchFromProjectSkills": true,
+  "search.setBudget": false,
   "search.budget": {
-    "setBudget": true,
+    "setBudget": false,
     "hourlyMin": 5,
     "hourlyMax": 100,
     "fixedMin": 50,
